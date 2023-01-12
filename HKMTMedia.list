@@ -58,12 +58,6 @@ USER-AGENT,walkman*,HKMTMedia
 USER-AGENT,xiami*,HKMTMedia
 HOST-SUFFIX,xiami.com,HKMTMedia
 HOST-SUFFIX,xiami.net,HKMTMedia
-# > QQMusic
-USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,HKMTMedia
-USER-AGENT,QQMusic*,HKMTMedia
-HOST-SUFFIX,*music.qq.com,HKMTMedia
-HOST-SUFFIX,y.qq.com,HKMTMedia
-HOST,aqqmusic.tc.qq.com,HKMTMedia
 # > Kugou & Kuwo
 HOST-SUFFIX,kugou.com,HKMTMedia
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,HKMTMedia
